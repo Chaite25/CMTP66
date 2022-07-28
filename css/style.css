@@ -29,7 +29,7 @@ a {
     margin: 0;
     padding: 0;
 }
-*,
+li,
 p {
     font-size: 14px !important;
     font-family: 'Open Sans', sans-serif;
