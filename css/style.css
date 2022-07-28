@@ -29,7 +29,7 @@ a {
     margin: 0;
     padding: 0;
 }
-
+*,
 p {
     font-size: 14px !important;
     font-family: 'Open Sans', sans-serif;
@@ -409,6 +409,7 @@ section.tab-section {
     border: 1px solid #ddd;
     color: #1a1a1a;
     overflow: hidden;
+    text-align: left;
 }
 
 .tab-part-area input {
@@ -463,6 +464,10 @@ section.tab-section {
     color: #000;
     font-weight: 600;
     text-decoration: underline;
+}
+
+.tab-list ul{
+    margin-bottom: 20px;
 }
 
 /*  ================================
